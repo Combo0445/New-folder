@@ -1,10 +1,13 @@
 # 🐾 IT 08-1: Pet Feed Project
 
-โปรเจคระบบ Feed รูปภาพสัตว์เลี้ยง พัฒนาด้วย **Go (Fiber + GORM)** และ **SQL Server** พร้อมเชื่อมต่อกับ Frontend (Angular)
-
+ระบบ Tesecase ที่พัฒนาด้วย **Go (Fiber)** และ **Angular** เชื่อมต่อฐานข้อมูล **SQL Server**
 ## 🛠️ Tech Stack
-- **Backend:** Go (Golang)
-- **Framework:** [Fiber v2](https://gofiber.io/)
-- **ORM:** [GORM](https://gorm.io/)
+### **Backend (API)**
+- **Language:** Go (Golang)
+- **Framework:** Fiber v2
 - **Database:** Microsoft SQL Server
-- **Frontend:** Angular (Standalone Component)
+- **ORM:** GORM
+
+### **Frontend (UI)**
+- **Framework:** Angular 17+
+- **Features:** Standalone Components
