@@ -1,0 +1,31 @@
+.container {
+  background-color: #fafafa;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.post-card {
+  background: white;
+  max-width: 500px;
+  margin: 0 auto 20px;
+  border: 1px solid #dbdbdb;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: left;
+}
+
+.post-header {
+  padding: 12px;
+  font-weight: bold;
+  border-bottom: 1px solid #efefef;
+}
+
+.post-image {
+  width: 100%;
+  display: block;
+}
+
+.post-footer {
+  padding: 12px;
+  font-size: 14px;
+}
